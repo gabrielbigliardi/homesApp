@@ -1,7 +1,7 @@
 # Angular Homes App
 
 Esse projeto serviu de estudo para Angular em sua v17.
-Como base para o desenvolvimento foi usada a documentação presente em angular.dev.
+Como base para o desenvolvimento foi usada a documentação presente em angular.dev bem como projeto base da própria equipe Angular para conhecimento da v17.
 
 Para o correto funcionamento da aplicação é necessário, além de rodar com o comando 'ng serve',
 utilizar o comando 'json-server --watch db.json' para conseguir acessar o banco de dados.
